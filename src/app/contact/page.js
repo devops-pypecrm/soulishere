@@ -181,8 +181,8 @@ export default function ContactPage() {
                                     </div>
                                     <div>
                                         <div style={{ fontSize: '0.85rem', color: '#7a678f', fontWeight: '500', marginBottom: '0.2rem' }}>PHONE SUPPORT</div>
-                                        <a href="tel:+919876543210" style={{ fontSize: '1.05rem', color: '#261536', fontWeight: '600', textDecoration: 'none' }}>
-                                            +91 (800) 247-6854
+                                        <a href="tel:+917012758141" style={{ fontSize: '1.05rem', color: '#261536', fontWeight: '600', textDecoration: 'none' }}>
+                                            +91 7012758141
                                         </a>
                                         <div style={{ fontSize: '0.85rem', color: '#8d7a9f', marginTop: '0.2rem' }}>Mon – Fri, 9am – 6pm IST</div>
                                     </div>
@@ -205,8 +205,8 @@ export default function ContactPage() {
                                     </div>
                                     <div>
                                         <div style={{ fontSize: '0.85rem', color: '#7a678f', fontWeight: '500', marginBottom: '0.2rem' }}>EMAIL US</div>
-                                        <a href="mailto:support@soulishere.com" style={{ fontSize: '1.05rem', color: '#261536', fontWeight: '600', textDecoration: 'none' }}>
-                                            support@soulishere.com
+                                        <a href="mailto:thesoulishereofficial@gmail.com" style={{ fontSize: '1.05rem', color: '#261536', fontWeight: '600', textDecoration: 'none' }}>
+                                            thesoulishereofficial@gmail.com
                                         </a>
                                         <div style={{ fontSize: '0.85rem', color: '#8d7a9f', marginTop: '0.2rem' }}>We usually reply within 24 hours</div>
                                     </div>
